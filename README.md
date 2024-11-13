@@ -26,3 +26,11 @@ quanto mais 9s, menos tempoo indisponível
 
 ### Criar máquina virtual
 Opções de disponibilidade - implica com o SLA
+
+# Instância de Banco de Dados
+### criar máquina virtual
+Precisamos buscar entender os campos para criar uma máquina virtual antes de partirmos para o código
+
+### Servidor SQL
+Precisamos selecionar a criação de um servidor e um modelo de redundância
+Após isso o Azure mosta um calculo estimado de nossos gastos mensais
